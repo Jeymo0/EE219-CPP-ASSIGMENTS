@@ -1,0 +1,13 @@
+ Song a1("ROLLIN N CONTROLLIN FREESTYLE","DUSTY LOCANE",0);
+    Song a2("Pop Out(feat. Lil Tjay)","Polo G & Lil Tjay",0);
+    Song a3("Baby Pluto","Lil Uzi Vert",0);
+    Song a4("Lil Boat","88 Glam",0);
+    Song a5("All I want is a Yacht","SAINt JHN",0);
+     a1.play();
+     a1.play();
+     a1.play();
+     a1.print();
+
+
+ Song copy=a1;
+     copy.print();
